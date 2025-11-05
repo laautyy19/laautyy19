@@ -1,16 +1,24 @@
-## Hi there 👋
+# ¡Hola! Soy laautyy19 👋 | 23 Años | Estudiante de DAM
+> Estudiante de DAM y desarrollador con una meta: que mi Chatbot (gracias a N8n) haga mi trabajo. La vida es demasiado corta para no automatizar.
 
-<!--
-**laautyy19/laautyy19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 💻 Stack en Foco
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![N8n](https://img.shields.io/badge/N8n-FF5722?style=for-the-badge&logo=n8n&logoColor=white)
+
+---
+
+### 📊 Mis Estadísticas de GitHub
+
+![Estadísticas de laautyy19](https://github-readme-stats.vercel.app/api?username=laautyy19&show_icons=true&theme=dark&rank_icon=github)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=laautyy19&layout=compact&theme=dark)
+
+---
+
+### 💬 Hablemos
+
+Estoy abierto a ideas para mi próximo gran proyecto de automatización. ¡Contáctame!
