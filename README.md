@@ -1,5 +1,5 @@
 # ¡Hola! Soy laautyy19 👋 | 23 Años | Estudiante de DAM
-> Estudiante de DAM y desarrollador con una meta: que mi Chatbot (gracias a N8n) haga mi trabajo. La vida es demasiado corta para no automatizar.
+> Estudiante de DAM y desarollador actualmente con un proyecto E-Commerce.
 
 ---
 
